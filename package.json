@@ -1,0 +1,20 @@
+{
+  "name": "http-listeners",
+  "version": "1.1.1",
+  "description": "listener of all http request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "ajax",
+    "fetch",
+    "listener"
+  ],
+  "author": "coverNetIt",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
+}
