@@ -12,7 +12,11 @@
     "fetch",
     "listener"
   ],
-  "author": "coverNetIt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhaodeezhu/http-listeners"
+  },
+  "author": "zhaodeezhu",
   "license": "ISC",
   "dependencies": {
     "uuid": "^3.3.3"
