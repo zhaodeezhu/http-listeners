@@ -1,6 +1,6 @@
 {
   "name": "http-listeners",
-  "version": "1.1.10",
+  "version": "1.1.12",
   "description": "listener of all http request",
   "main": "index.js",
   "scripts": {
